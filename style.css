@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:orange;
+    border:red solid 2px;
+    border-radius:9px;
+    padding:5px;
+}
+header img{
+    margin:2px;
+    padding:2px;
+    border:red solid 2px;
+}
+body a {
+    text-decoration:none;
+}
+h1 i{
+    border:5px solid black;
+    border-radius:6px;
+    color:purple;
+}
+footer p{
+    border:lightblue solid 3px;
+    background-color:orange;
+}
+footer{
+    background-color:blue;
+    border:4px solid lightslategray;
+}
+nav{
+    border:2px solid seagreen;
+    margin:8px;
+    padding:8px;
+    background-color:blue;
+}
+nav a{
+    color:orange;
+    border:silver solid 3px;
+    margin:4px;
+    padding:4px;
+    border-radius:10px;
+    background-color:yellow;
+}
+.img{
+    background-color:blue;
+    border:lightskyblue solid 3px;
+    padding:4px;
+    border-radius:9px;
+}
+main{
+    border:lightsalmon solid 6px;
+    margin:6px;
+    border-radius:8px;
+}
