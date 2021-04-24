@@ -19,6 +19,7 @@ h1 i{
     border:5px solid black;
     border-radius:6px;
     color:purple;
+    text-transform: uppercase;
 }
 footer p{
     border:lightblue solid 3px;
